@@ -31,10 +31,10 @@
 </p>   
  
   <br><br>
+  
  <h3>Github Stats</h3>
  <div align="center">
-  
-   <br>
+   
   <br>
   <tr>
     <td>
