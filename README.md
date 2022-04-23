@@ -1,4 +1,4 @@
-<h1>Oi,<br> meu nome é Thiago Lordello</h1>
+<h1>Oi,<br> seja bem vindo ao meu perfil!</h1>
 
 <h2>Sobre mim</h2>
 <div align="center" dir="auto">
