@@ -1,4 +1,4 @@
-<h1>Oi,<br> &nbsp &nbsp &nbsp &nbsp seja bem vindo ao meu perfil!</h1>
+<h1>Oi,<br> &nbsp &nbsp &nbsp seja bem vindo ao meu perfil!</h1>
 
 <h2>Sobre mim</h2>
 <div align="center" dir="auto">
