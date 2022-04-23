@@ -1,6 +1,16 @@
 <h1>Oi,<br> meu nome é Thiago Lordello</h1>
-<h2>Vivendo a arte do codigo</h2>
-<h3>No momento, estou em processo de aprendizagem na trybe para me tornar um desenvolvedor full stack. Minha preferencia por codar esta no back end. </h3>
+<br>
+<h2>Sobre mim</h2>
+<div align="center" dir="auto">
+  <div align="left" dir="auto">
+    <li>- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> Estudante de Desenvolvimento Web <a href="https://betrybe.com" rel="nofollow">Trybe</a></li>
+    <li>- <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Aprendendo Docker</li>
+    <li>- <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Me pergunte sobre Animes e Jogos</li>
+    <li>- <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"><img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronomes: Ele / Dele </li>
+  </div>
+</div>
+
+
 <h3>Principais stacks adquiridas</h3>
 
 <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
