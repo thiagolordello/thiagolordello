@@ -4,7 +4,7 @@
 <div align="center" dir="auto">
   <div align="left" dir="auto">
     <li>- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> Atualmente estudando back end na <a href="https://betrybe.com" rel="nofollow">Trybe</a> e amando trabalhar com API`S </li>
-    <li>- <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Aprendendo Docker</li>
+    <li>- <g-emoji class="g-emoji" alias="runner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Aprendendo Docker</li>
     <li>- <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Me pergunte sobre Animes e Jogos</li>
     <li>- <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"><img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronomes: Ele / Dele </li>
   </div>
