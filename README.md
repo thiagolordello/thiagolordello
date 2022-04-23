@@ -1,5 +1,5 @@
 <h1>Oi,<br> &nbsp &nbsp &nbsp seja bem vindo ao meu perfil!</h1>
-
+<br>
 <h2>Sobre mim</h2>
 <div align="center" dir="auto">
   <div align="left" dir="auto">
@@ -8,14 +8,11 @@
     <li>- <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8"></g-emoji> Nas horas vagas, gosto de uma corridinha pra manter a saúde em dia</li>
     <li>- <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bc.png?v8"><img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3bc.png?v8"></g-emoji> Tocar instrumentos, também é outro hobbie que adoro fazer </li>
     <li>- <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Poderiamos conversar por horas sobre musica.</li>
-    
-    <li>- <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"><img class="emoji" alt="smile" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronomes: Ele / Dele </li>
-    
-  </div>
+     </div>
 </div>
 <br> 
 
-<h3>Principais stacks adquiridas</h3>
+<h2>Principais stacks adquiridas</h2>
 
 <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <a href="[Link perfil no JavaScript]"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -23,16 +20,15 @@
 <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> <a href="[Link perfil no Docker]"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<br> <br> 
-<h3>Quer me conhecer melhor ?</h3>
+<br> <br> <br>
+
+<h2>Quer me conhecer melhor ?</h2>
  <p data-sourcepos="46:1-47:141" dir="auto"><a href="https://github.com/thiagolordello/"></a><a href="https://www.linkedin.com/in/thiago-lordello-b3418aaa/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="/thiagolordello/thiagolordello/blob/main/[Link perfil no html]"><img alt="html" src="https://camo.githubusercontent.com/be08f7a1c998ec3e477fd0d3cc0e7fa39255cce4e77daf537e80c0f33e4d87d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">     
 </a>   
-</p>   
- 
-  <br><br>
+</p> <br> <br>
   
- <h3>Github Stats</h3>
+<h2>Github Stats</h2>
  <div align="center">
    
   <br>
@@ -50,5 +46,5 @@
  </a>
 </td>
   </tr>
-   
- </div>
+ </div>  
+ 
