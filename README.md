@@ -1,4 +1,4 @@
-<h1>Oi,<br> &nbsp &nbsp &nbsp seja bem vindo ao meu perfil!</h1>
+<h1>Oi.<br> &nbsp &nbsp &nbsp Seja bem vindo ao meu perfil!</h1>
 
 <h2>Sobre mim</h2>
 <div align="center" dir="auto">
@@ -23,12 +23,11 @@
 <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> <a href="[Link perfil no Docker]"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <br> <br> 
 <h3>Quer me conhecer melhor ?</h3>
- <a href="https://www.linkedin.com/in/johnatashenrique/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="48px" height="48px" data-canonical-src="https://i.ibb.co/Kx2GSrT/linkedin.png" style="max-width: 100%;">
-</a> 
-<a href="https://www.linkedin.com/in/thiago-lordello-b3418aaa/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/a80d00f2 3720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="badge do LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />     
-</a>
+ <p data-sourcepos="46:1-47:141" dir="auto"><a href="https://github.com/Pedro0505"></a><a href="https://www.linkedin.com/in/pedrohenriquer/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="/thiagolordello/thiagolordello/blob/main/[Link perfil no html]"><img alt="html" src="https://camo.githubusercontent.com/be08f7a1c998ec3e477fd0d3cc0e7fa39255cce4e77daf537e80c0f33e4d87d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">     
+</a>   
+</p>   
+ 
   <br><br>
  <h3>Github Stats</h3>
  <div align="center">
