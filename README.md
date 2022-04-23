@@ -19,7 +19,9 @@
 
 <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <a href="[Link perfil no JavaScript]"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<a href="[Link perfil no JavaScript]"><img alt="JavaScript" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <a href="[Link perfil no Nodejs]"><img alt="Nodejs" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> <a href="[Link perfil no Docker]"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <br> <br> 
 <h3>Quer me conhecer melhor ?</h3>
