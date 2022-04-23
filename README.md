@@ -1,5 +1,5 @@
 <h1>Oi,<br> meu nome é Thiago Lordello</h1>
-<br>
+
 <h2>Sobre mim</h2>
 <div align="center" dir="auto">
   <div align="left" dir="auto">
