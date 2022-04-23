@@ -20,7 +20,7 @@
     <td>
   <a href="https://github.com/thiagolordello">
     <a href =" https://github.com/anuraghazra/github-readme-stats ">
-  <img  height="180em" src ="https://github-readme-stats.vercel.app/api?username=thiagolordello&show_icons=true&theme=calm" style="max-width: 100%;"/>
+  <img  height="180em" src ="https://github-readme-stats.vercel.app/api?username=thiagolordello&show_icons=true&theme=calm" style="max-width: 60%;"/>
  </a>
   </a>
 </td>
